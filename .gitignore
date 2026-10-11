@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+rnn_tuning/
+keras_rnn_tuning/
+*.keras
